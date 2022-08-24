@@ -34,7 +34,7 @@
 		}
 	},
 	"require" : {
-		"shopware/core" : "~6.4.11",
+		"shopware/core" : "~6.4.9",
 		"jawira/plantuml-encoding" : "~1.1.0"
 	},
 	"require-dev" : {
