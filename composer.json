@@ -1,5 +1,5 @@
 {
-	"name" : "frosh/tools",
+	"name" : "vardumper/tools",
 	"version" : "0.2.5",
 	"description" : "Provides some basic things for managing the Shopware Installation",
 	"type" : "shopware-platform-plugin",
